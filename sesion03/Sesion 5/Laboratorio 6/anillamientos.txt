@@ -1,0 +1,1 @@
+10;lora;10;m;2010-cargarTodas
